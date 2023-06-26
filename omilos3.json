@@ -1,0 +1,775 @@
+{
+    "game": [
+ 
+       {
+            "homeTeam": "ΑΕ ΗΡΑΚΛΕΙΟ",
+            "awayTeam": "ΑΘΗΝΑΪΚΟΣ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+       },
+ 
+       {
+            "homeTeam": "ΑΕ ΗΡΑΚΛΕΙΟ",
+            "awayTeam": "ΑΟ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΕ ΗΡΑΚΛΕΙΟ",
+            "awayTeam": "ΑΡΗΣ ΚΑΛΑΜΑΚΙΟΥ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΕ ΗΡΑΚΛΕΙΟ",
+            "awayTeam": "ΑΤΡΟΜΗΤΟΣ ΜΕΤ/ΣΗΣ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΕ ΗΡΑΚΛΕΙΟ",
+            "awayTeam": "ΒΥΡΩΝ",
+            "homeTeamGoals": 6,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΕ ΗΡΑΚΛΕΙΟ",
+            "awayTeam": "ΕΛΠΙΔΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΕ ΗΡΑΚΛΕΙΟ",
+            "awayTeam": "ΗΛΥΣΙΑΚΟΣ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΕ ΗΡΑΚΛΕΙΟ",
+            "awayTeam": "ΜΕΛΙΣΣΙΑ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΕ ΗΡΑΚΛΕΙΟ",
+            "awayTeam": "ΤΡΑΧΩΝΕΣ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 3
+        },
+
+        {
+            "homeTeam": "ΑΕ ΗΡΑΚΛΕΙΟ",
+            "awayTeam": "ΧΟΛΑΡΓΟΣ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΘΗΝΑΪΚΟΣ",
+            "awayTeam": "ΑΕ ΗΡΑΚΛΕΙΟ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+       },
+ 
+       {
+            "homeTeam": "ΑΘΗΝΑΪΚΟΣ",
+            "awayTeam": "ΑΟ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΘΗΝΑΪΚΟΣ",
+            "awayTeam": "ΑΡΗΣ ΚΑΛΑΜΑΚΙΟΥ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΘΗΝΑΪΚΟΣ",
+            "awayTeam": "ΑΤΡΟΜΗΤΟΣ ΜΕΤ/ΣΗΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΘΗΝΑΪΚΟΣ",
+            "awayTeam": "ΒΥΡΩΝ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΘΗΝΑΪΚΟΣ",
+            "awayTeam": "ΕΛΠΙΔΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΘΗΝΑΪΚΟΣ",
+            "awayTeam": "ΗΛΥΣΙΑΚΟΣ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΘΗΝΑΪΚΟΣ",
+            "awayTeam": "ΜΕΛΙΣΣΙΑ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΘΗΝΑΪΚΟΣ",
+            "awayTeam": "ΤΡΑΧΩΝΕΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΘΗΝΑΪΚΟΣ",
+            "awayTeam": "ΧΟΛΑΡΓΟΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΟ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΑΕ ΗΡΑΚΛΕΙΟ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 1
+       },
+
+        {
+            "homeTeam": "ΑΟ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΑΘΗΝΑΪΚΟΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΟ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΑΡΗΣ ΚΑΛΑΜΑΚΙΟΥ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΟ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΑΤΡΟΜΗΤΟΣ ΜΕΤ/ΣΗΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΟ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΒΥΡΩΝ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΟ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΕΛΠΙΔΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΟ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΗΛΥΣΙΑΚΟΣ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 3
+        },
+
+        {
+            "homeTeam": "ΑΟ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΜΕΛΙΣΣΙΑ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΟ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΤΡΑΧΩΝΕΣ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΟ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΧΟΛΑΡΓΟΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 3
+        },
+
+        {
+            "homeTeam": "ΑΡΗΣ ΚΑΛΑΜΑΚΙΟΥ",
+            "awayTeam": "ΑΕ ΗΡΑΚΛΕΙΟ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+       },
+
+        {
+            "homeTeam": "ΑΡΗΣ ΚΑΛΑΜΑΚΙΟΥ",
+            "awayTeam": "ΑΘΗΝΑΪΚΟΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΡΗΣ ΚΑΛΑΜΑΚΙΟΥ",
+            "awayTeam": "ΑΟ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΡΗΣ ΚΑΛΑΜΑΚΙΟΥ",
+            "awayTeam": "ΑΤΡΟΜΗΤΟΣ ΜΕΤ/ΣΗΣ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 4
+        },
+
+        {
+            "homeTeam": "ΑΡΗΣ ΚΑΛΑΜΑΚΙΟΥ",
+            "awayTeam": "ΒΥΡΩΝ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΡΗΣ ΚΑΛΑΜΑΚΙΟΥ",
+            "awayTeam": "ΕΛΠΙΔΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΡΗΣ ΚΑΛΑΜΑΚΙΟΥ",
+            "awayTeam": "ΗΛΥΣΙΑΚΟΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΡΗΣ ΚΑΛΑΜΑΚΙΟΥ",
+            "awayTeam": "ΜΕΛΙΣΣΙΑ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΡΗΣ ΚΑΛΑΜΑΚΙΟΥ",
+            "awayTeam": "ΤΡΑΧΩΝΕΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΡΗΣ ΚΑΛΑΜΑΚΙΟΥ",
+            "awayTeam": "ΧΟΛΑΡΓΟΣ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΤΡΟΜΗΤΟΣ ΜΕΤ/ΣΗΣ",
+            "awayTeam": "ΑΕ ΗΡΑΚΛΕΙΟ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 0
+       },
+
+        {
+            "homeTeam": "ΑΤΡΟΜΗΤΟΣ ΜΕΤ/ΣΗΣ",
+            "awayTeam": "ΑΘΗΝΑΪΚΟΣ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΤΡΟΜΗΤΟΣ ΜΕΤ/ΣΗΣ",
+            "awayTeam": "ΑΟ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΤΡΟΜΗΤΟΣ ΜΕΤ/ΣΗΣ",
+            "awayTeam": "ΑΡΗΣ ΚΑΛΑΜΑΚΙΟΥ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΤΡΟΜΗΤΟΣ ΜΕΤ/ΣΗΣ",
+            "awayTeam": "ΒΥΡΩΝ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΤΡΟΜΗΤΟΣ ΜΕΤ/ΣΗΣ",
+            "awayTeam": "ΕΛΠΙΔΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΤΡΟΜΗΤΟΣ ΜΕΤ/ΣΗΣ",
+            "awayTeam": "ΗΛΥΣΙΑΚΟΣ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 3
+        },
+
+        {
+            "homeTeam": "ΑΤΡΟΜΗΤΟΣ ΜΕΤ/ΣΗΣ",
+            "awayTeam": "ΜΕΛΙΣΣΙΑ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 4
+        },
+
+        {
+            "homeTeam": "ΑΤΡΟΜΗΤΟΣ ΜΕΤ/ΣΗΣ",
+            "awayTeam": "ΤΡΑΧΩΝΕΣ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 5
+        },
+
+        {
+            "homeTeam": "ΑΤΡΟΜΗΤΟΣ ΜΕΤ/ΣΗΣ",
+            "awayTeam": "ΧΟΛΑΡΓΟΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 3
+        },
+
+        {
+            "homeTeam": "ΒΥΡΩΝ",
+            "awayTeam": "ΑΕ ΗΡΑΚΛΕΙΟ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 4
+       },
+
+        {
+            "homeTeam": "ΒΥΡΩΝ",
+            "awayTeam": "ΑΘΗΝΑΪΚΟΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΒΥΡΩΝ",
+            "awayTeam": "ΑΟ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 3
+        },
+
+        {
+            "homeTeam": "ΒΥΡΩΝ",
+            "awayTeam": "ΑΡΗΣ ΚΑΛΑΜΑΚΙΟΥ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΒΥΡΩΝ",
+            "awayTeam": "ΑΤΡΟΜΗΤΟΣ ΜΕΤ/ΣΗΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΒΥΡΩΝ",
+            "awayTeam": "ΕΛΠΙΔΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΒΥΡΩΝ",
+            "awayTeam": "ΗΛΥΣΙΑΚΟΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 5
+        },
+
+        {
+            "homeTeam": "ΒΥΡΩΝ",
+            "awayTeam": "ΜΕΛΙΣΣΙΑ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 4
+        },
+
+        {
+            "homeTeam": "ΒΥΡΩΝ",
+            "awayTeam": "ΤΡΑΧΩΝΕΣ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 4
+        },
+
+        {
+            "homeTeam": "ΒΥΡΩΝ",
+            "awayTeam": "ΧΟΛΑΡΓΟΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΕΛΠΙΔΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+            "awayTeam": "ΑΕ ΗΡΑΚΛΕΙΟ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 2
+       },
+
+        {
+            "homeTeam": "ΕΛΠΙΔΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+            "awayTeam": "ΑΘΗΝΑΪΚΟΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΕΛΠΙΔΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+            "awayTeam": "ΑΟ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΕΛΠΙΔΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+            "awayTeam": "ΑΡΗΣ ΚΑΛΑΜΑΚΙΟΥ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΕΛΠΙΔΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+            "awayTeam": "ΑΤΡΟΜΗΤΟΣ ΜΕΤ/ΣΗΣ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΕΛΠΙΔΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+            "awayTeam": "ΒΥΡΩΝ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΕΛΠΙΔΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+            "awayTeam": "ΗΛΥΣΙΑΚΟΣ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 5
+        },
+
+        {
+            "homeTeam": "ΕΛΠΙΔΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+            "awayTeam": "ΜΕΛΙΣΣΙΑ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 3
+        },
+
+        {
+            "homeTeam": "ΕΛΠΙΔΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+            "awayTeam": "ΤΡΑΧΩΝΕΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΕΛΠΙΔΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+            "awayTeam": "ΧΟΛΑΡΓΟΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΗΛΥΣΙΑΚΟΣ",
+            "awayTeam": "ΑΕ ΗΡΑΚΛΕΙΟ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+       },
+
+        {
+            "homeTeam": "ΗΛΥΣΙΑΚΟΣ",
+            "awayTeam": "ΑΘΗΝΑΪΚΟΣ",
+            "homeTeamGoals": 8,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΗΛΥΣΙΑΚΟΣ",
+            "awayTeam": "ΑΟ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 5,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΗΛΥΣΙΑΚΟΣ",
+            "awayTeam": "ΑΡΗΣ ΚΑΛΑΜΑΚΙΟΥ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΗΛΥΣΙΑΚΟΣ",
+            "awayTeam": "ΑΤΡΟΜΗΤΟΣ ΜΕΤ/ΣΗΣ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΗΛΥΣΙΑΚΟΣ",
+            "awayTeam": "ΒΥΡΩΝ",
+            "homeTeamGoals": 6,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΗΛΥΣΙΑΚΟΣ",
+            "awayTeam": "ΕΛΠΙΔΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+            "homeTeamGoals": 7,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΗΛΥΣΙΑΚΟΣ",
+            "awayTeam": "ΜΕΛΙΣΣΙΑ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΗΛΥΣΙΑΚΟΣ",
+            "awayTeam": "ΤΡΑΧΩΝΕΣ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΗΛΥΣΙΑΚΟΣ",
+            "awayTeam": "ΧΟΛΑΡΓΟΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΜΕΛΙΣΣΙΑ",
+            "awayTeam": "ΑΕ ΗΡΑΚΛΕΙΟ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 2
+       },
+
+        {
+            "homeTeam": "ΜΕΛΙΣΣΙΑ",
+            "awayTeam": "ΑΘΗΝΑΪΚΟΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΜΕΛΙΣΣΙΑ",
+            "awayTeam": "ΑΟ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΜΕΛΙΣΣΙΑ",
+            "awayTeam": "ΑΡΗΣ ΚΑΛΑΜΑΚΙΟΥ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΜΕΛΙΣΣΙΑ",
+            "awayTeam": "ΑΤΡΟΜΗΤΟΣ ΜΕΤ/ΣΗΣ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΜΕΛΙΣΣΙΑ",
+            "awayTeam": "ΒΥΡΩΝ",
+            "homeTeamGoals": 4,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΜΕΛΙΣΣΙΑ",
+            "awayTeam": "ΕΛΠΙΔΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΜΕΛΙΣΣΙΑ",
+            "awayTeam": "ΗΛΥΣΙΑΚΟΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 4
+        },
+
+        {
+            "homeTeam": "ΜΕΛΙΣΣΙΑ",
+            "awayTeam": "ΤΡΑΧΩΝΕΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΜΕΛΙΣΣΙΑ",
+            "awayTeam": "ΧΟΛΑΡΓΟΣ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΤΡΑΧΩΝΕΣ",
+            "awayTeam": "ΑΕ ΗΡΑΚΛΕΙΟ",
+            "homeTeamGoals": 7,
+            "awayTeamGoals": 1
+       },
+
+        {
+            "homeTeam": "ΤΡΑΧΩΝΕΣ",
+            "awayTeam": "ΑΘΗΝΑΪΚΟΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΤΡΑΧΩΝΕΣ",
+            "awayTeam": "ΑΟ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΤΡΑΧΩΝΕΣ",
+            "awayTeam": "ΑΡΗΣ ΚΑΛΑΜΑΚΙΟΥ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΤΡΑΧΩΝΕΣ",
+            "awayTeam": "ΑΤΡΟΜΗΤΟΣ ΜΕΤ/ΣΗΣ",
+            "homeTeamGoals": 5,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΤΡΑΧΩΝΕΣ",
+            "awayTeam": "ΒΥΡΩΝ",
+            "homeTeamGoals": 7,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΤΡΑΧΩΝΕΣ",
+            "awayTeam": "ΕΛΠΙΔΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+            "homeTeamGoals": 4,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΤΡΑΧΩΝΕΣ",
+            "awayTeam": "ΗΛΥΣΙΑΚΟΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΤΡΑΧΩΝΕΣ",
+            "awayTeam": "ΜΕΛΙΣΣΙΑ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΤΡΑΧΩΝΕΣ",
+            "awayTeam": "ΧΟΛΑΡΓΟΣ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 1
+        },
+
+
+        {
+            "homeTeam": "ΧΟΛΑΡΓΟΣ",
+            "awayTeam": "ΑΕ ΗΡΑΚΛΕΙΟ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 1
+       },
+
+        {
+            "homeTeam": "ΧΟΛΑΡΓΟΣ",
+            "awayTeam": "ΑΘΗΝΑΪΚΟΣ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΧΟΛΑΡΓΟΣ",
+            "awayTeam": "ΑΟ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΧΟΛΑΡΓΟΣ",
+            "awayTeam": "ΑΡΗΣ ΚΑΛΑΜΑΚΙΟΥ",
+            "homeTeamGoals": 4,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΧΟΛΑΡΓΟΣ",
+            "awayTeam": "ΑΤΡΟΜΗΤΟΣ ΜΕΤ/ΣΗΣ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΧΟΛΑΡΓΟΣ",
+            "awayTeam": "ΒΥΡΩΝ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΧΟΛΑΡΓΟΣ",
+            "awayTeam": "ΕΛΠΙΔΑ ΑΓ. ΑΝΑΡΓΥΡΩΝ",
+            "homeTeamGoals": 4,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΧΟΛΑΡΓΟΣ",
+            "awayTeam": "ΗΛΥΣΙΑΚΟΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΧΟΛΑΡΓΟΣ",
+            "awayTeam": "ΜΕΛΙΣΣΙΑ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΧΟΛΑΡΓΟΣ",
+            "awayTeam": "ΤΡΑΧΩΝΕΣ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+        }
+    ]
+}

@@ -1,0 +1,774 @@
+{
+    "game": [
+ 
+       {
+          "homeTeam": "ΑΟ ΚΑΛΑΜΑΚΙΟΥ",
+          "awayTeam": "ΑΟ ΜΙΚΡΑΣΙΑΤΙΚΟΣ",
+          "homeTeamGoals": 0,
+          "awayTeamGoals": 4
+       },
+ 
+       {
+            "homeTeam": "ΑΟ ΚΑΛΑΜΑΚΙΟΥ",
+            "awayTeam": "ΓΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΟ ΚΑΛΑΜΑΚΙΟΥ",
+            "awayTeam": "ΔΑΦΝΗ Π.ΦΑΛΗΡΟΥ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 3
+        },
+
+        {
+            "homeTeam": "ΑΟ ΚΑΛΑΜΑΚΙΟΥ",
+            "awayTeam": "ΔΙΑΝΑ ΗΛΙΟΥΠΟΛΗΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΟ ΚΑΛΑΜΑΚΙΟΥ",
+            "awayTeam": "ΗΦΑΙΣΤΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΟ ΚΑΛΑΜΑΚΙΟΥ",
+            "awayTeam": "ΝΕΑ ΙΩΝΙΑ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 3
+        },
+
+        {
+            "homeTeam": "ΑΟ ΚΑΛΑΜΑΚΙΟΥ",
+            "awayTeam": "ΟΛΥΜΠΙΑΚΟΣ Ν.ΛΙΟΣΙΩΝ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΟ ΚΑΛΑΜΑΚΙΟΥ",
+            "awayTeam": "ΠΑΝΕΡΥΘΡΑΪΚΟΣ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΟ ΚΑΛΑΜΑΚΙΟΥ",
+            "awayTeam": "ΧΑΡΑΥΓΙΑΚΟΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΟ ΚΑΛΑΜΑΚΙΟΥ",
+            "awayTeam": "ΧΑΪΔΑΡΙ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΟ ΜΙΚΡΑΣΙΑΤΙΚΟΣ",
+            "awayTeam": "ΑΟ ΚΑΛΑΜΑΚΙΟΥ",
+            "homeTeamGoals": 4,
+            "awayTeamGoals": 0
+         },
+   
+         {
+              "homeTeam": "ΑΟ ΜΙΚΡΑΣΙΑΤΙΚΟΣ",
+              "awayTeam": "ΓΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΑΟ ΜΙΚΡΑΣΙΑΤΙΚΟΣ",
+              "awayTeam": "ΔΑΦΝΗ Π.ΦΑΛΗΡΟΥ",
+              "homeTeamGoals": 3,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΑΟ ΜΙΚΡΑΣΙΑΤΙΚΟΣ",
+              "awayTeam": "ΔΙΑΝΑ ΗΛΙΟΥΠΟΛΗΣ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΑΟ ΜΙΚΡΑΣΙΑΤΙΚΟΣ",
+              "awayTeam": "ΗΦΑΙΣΤΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+              "homeTeamGoals": 3,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΑΟ ΜΙΚΡΑΣΙΑΤΙΚΟΣ",
+              "awayTeam": "ΝΕΑ ΙΩΝΙΑ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΑΟ ΜΙΚΡΑΣΙΑΤΙΚΟΣ",
+              "awayTeam": "ΟΛΥΜΠΙΑΚΟΣ Ν.ΛΙΟΣΙΩΝ",
+              "homeTeamGoals": 3,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΑΟ ΜΙΚΡΑΣΙΑΤΙΚΟΣ",
+              "awayTeam": "ΠΑΝΕΡΥΘΡΑΪΚΟΣ",
+              "homeTeamGoals": 2,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΑΟ ΜΙΚΡΑΣΙΑΤΙΚΟΣ",
+              "awayTeam": "ΧΑΡΑΥΓΙΑΚΟΣ",
+              "homeTeamGoals": 3,
+              "awayTeamGoals": 2
+          },
+  
+          {
+              "homeTeam": "ΑΟ ΜΙΚΡΑΣΙΑΤΙΚΟΣ",
+              "awayTeam": "ΧΑΪΔΑΡΙ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 2
+          },
+
+          {
+            "homeTeam": "ΓΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+            "awayTeam": "ΑΟ ΚΑΛΑΜΑΚΙΟΥ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+         },
+   
+         {
+              "homeTeam": "ΓΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+              "awayTeam": "ΑΟ ΜΙΚΡΑΣΙΑΤΙΚΟΣ",
+              "homeTeamGoals": 2,
+              "awayTeamGoals": 2
+          },
+  
+          {
+              "homeTeam": "ΓΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+              "awayTeam": "ΔΑΦΝΗ Π.ΦΑΛΗΡΟΥ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΓΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+              "awayTeam": "ΔΙΑΝΑ ΗΛΙΟΥΠΟΛΗΣ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΓΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+              "awayTeam": "ΗΦΑΙΣΤΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΓΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+              "awayTeam": "ΝΕΑ ΙΩΝΙΑ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 2
+          },
+  
+          {
+              "homeTeam": "ΓΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+              "awayTeam": "ΟΛΥΜΠΙΑΚΟΣ Ν.ΛΙΟΣΙΩΝ",
+              "homeTeamGoals": 2,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΓΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+              "awayTeam": "ΠΑΝΕΡΥΘΡΑΪΚΟΣ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΓΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+              "awayTeam": "ΧΑΡΑΥΓΙΑΚΟΣ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΓΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+              "awayTeam": "ΧΑΪΔΑΡΙ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 2
+          },
+
+          {
+            "homeTeam": "ΔΑΦΝΗ Π.ΦΑΛΗΡΟΥ",
+            "awayTeam": "ΑΟ ΚΑΛΑΜΑΚΙΟΥ",
+            "homeTeamGoals": 4,
+            "awayTeamGoals": 0
+         },
+   
+         {
+              "homeTeam": "ΔΑΦΝΗ Π.ΦΑΛΗΡΟΥ",
+              "awayTeam": "ΑΟ ΜΙΚΡΑΣΙΑΤΙΚΟΣ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΔΑΦΝΗ Π.ΦΑΛΗΡΟΥ",
+              "awayTeam": "ΓΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΔΑΦΝΗ Π.ΦΑΛΗΡΟΥ",
+              "awayTeam": "ΔΙΑΝΑ ΗΛΙΟΥΠΟΛΗΣ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΔΑΦΝΗ Π.ΦΑΛΗΡΟΥ",
+              "awayTeam": "ΗΦΑΙΣΤΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+              "homeTeamGoals": 6,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΔΑΦΝΗ Π.ΦΑΛΗΡΟΥ",
+              "awayTeam": "ΝΕΑ ΙΩΝΙΑ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΔΑΦΝΗ Π.ΦΑΛΗΡΟΥ",
+              "awayTeam": "ΟΛΥΜΠΙΑΚΟΣ Ν.ΛΙΟΣΙΩΝ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΔΑΦΝΗ Π.ΦΑΛΗΡΟΥ",
+              "awayTeam": "ΠΑΝΕΡΥΘΡΑΪΚΟΣ",
+              "homeTeamGoals": 2,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΔΑΦΝΗ Π.ΦΑΛΗΡΟΥ",
+              "awayTeam": "ΧΑΡΑΥΓΙΑΚΟΣ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΔΑΦΝΗ Π.ΦΑΛΗΡΟΥ",
+              "awayTeam": "ΧΑΪΔΑΡΙ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 2
+          },
+
+          {
+            "homeTeam": "ΔΙΑΝΑ ΗΛΙΟΥΠΟΛΗΣ",
+            "awayTeam": "ΑΟ ΚΑΛΑΜΑΚΙΟΥ",
+            "homeTeamGoals": 5,
+            "awayTeamGoals": 0
+         },
+   
+         {
+              "homeTeam": "ΔΙΑΝΑ ΗΛΙΟΥΠΟΛΗΣ",
+              "awayTeam": "ΑΟ ΜΙΚΡΑΣΙΑΤΙΚΟΣ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 2
+          },
+  
+          {
+              "homeTeam": "ΔΙΑΝΑ ΗΛΙΟΥΠΟΛΗΣ",
+              "awayTeam": "ΓΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+              "homeTeamGoals": 3,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΔΙΑΝΑ ΗΛΙΟΥΠΟΛΗΣ",
+              "awayTeam": "ΔΑΦΝΗ Π.ΦΑΛΗΡΟΥ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΔΙΑΝΑ ΗΛΙΟΥΠΟΛΗΣ",
+              "awayTeam": "ΗΦΑΙΣΤΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΔΙΑΝΑ ΗΛΙΟΥΠΟΛΗΣ",
+              "awayTeam": "ΝΕΑ ΙΩΝΙΑ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΔΙΑΝΑ ΗΛΙΟΥΠΟΛΗΣ",
+              "awayTeam": "ΟΛΥΜΠΙΑΚΟΣ Ν.ΛΙΟΣΙΩΝ",
+              "homeTeamGoals": 2,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΔΙΑΝΑ ΗΛΙΟΥΠΟΛΗΣ",
+              "awayTeam": "ΠΑΝΕΡΥΘΡΑΪΚΟΣ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΔΙΑΝΑ ΗΛΙΟΥΠΟΛΗΣ",
+              "awayTeam": "ΧΑΡΑΥΓΙΑΚΟΣ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΔΙΑΝΑ ΗΛΙΟΥΠΟΛΗΣ",
+              "awayTeam": "ΧΑΪΔΑΡΙ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 0
+          },
+
+          {
+            "homeTeam": "ΗΦΑΙΣΤΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΑΟ ΚΑΛΑΜΑΚΙΟΥ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 0
+         },
+   
+         {
+              "homeTeam": "ΗΦΑΙΣΤΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+              "awayTeam": "ΑΟ ΜΙΚΡΑΣΙΑΤΙΚΟΣ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΗΦΑΙΣΤΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+              "awayTeam": "ΓΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 2
+          },
+  
+          {
+              "homeTeam": "ΗΦΑΙΣΤΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+              "awayTeam": "ΔΑΦΝΗ Π.ΦΑΛΗΡΟΥ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 2
+          },
+  
+          {
+              "homeTeam": "ΗΦΑΙΣΤΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+              "awayTeam": "ΔΙΑΝΑ ΗΛΙΟΥΠΟΛΗΣ",
+              "homeTeamGoals": 2,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΗΦΑΙΣΤΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+              "awayTeam": "ΝΕΑ ΙΩΝΙΑ",
+              "homeTeamGoals": 2,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΗΦΑΙΣΤΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+              "awayTeam": "ΟΛΥΜΠΙΑΚΟΣ Ν.ΛΙΟΣΙΩΝ",
+              "homeTeamGoals": 2,
+              "awayTeamGoals": 2
+          },
+  
+          {
+              "homeTeam": "ΗΦΑΙΣΤΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+              "awayTeam": "ΠΑΝΕΡΥΘΡΑΪΚΟΣ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΗΦΑΙΣΤΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+              "awayTeam": "ΧΑΡΑΥΓΙΑΚΟΣ",
+              "homeTeamGoals": 3,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΗΦΑΙΣΤΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+              "awayTeam": "ΧΑΪΔΑΡΙ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 3
+          },
+
+          {
+            "homeTeam": "ΝΕΑ ΙΩΝΙΑ",
+            "awayTeam": "ΑΟ ΚΑΛΑΜΑΚΙΟΥ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 0
+         },
+   
+         {
+              "homeTeam": "ΝΕΑ ΙΩΝΙΑ",
+              "awayTeam": "ΑΟ ΜΙΚΡΑΣΙΑΤΙΚΟΣ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 2
+          },
+  
+          {
+              "homeTeam": "ΝΕΑ ΙΩΝΙΑ",
+              "awayTeam": "ΓΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+              "homeTeamGoals": 2,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΝΕΑ ΙΩΝΙΑ",
+              "awayTeam": "ΔΑΦΝΗ Π.ΦΑΛΗΡΟΥ",
+              "homeTeamGoals": 2,
+              "awayTeamGoals": 4
+          },
+  
+          {
+              "homeTeam": "ΝΕΑ ΙΩΝΙΑ",
+              "awayTeam": "ΔΙΑΝΑ ΗΛΙΟΥΠΟΛΗΣ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΝΕΑ ΙΩΝΙΑ",
+              "awayTeam": "ΗΦΑΙΣΤΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΝΕΑ ΙΩΝΙΑ",
+              "awayTeam": "ΟΛΥΜΠΙΑΚΟΣ Ν.ΛΙΟΣΙΩΝ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΝΕΑ ΙΩΝΙΑ",
+              "awayTeam": "ΠΑΝΕΡΥΘΡΑΪΚΟΣ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΝΕΑ ΙΩΝΙΑ",
+              "awayTeam": "ΧΑΡΑΥΓΙΑΚΟΣ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΝΕΑ ΙΩΝΙΑ",
+              "awayTeam": "ΧΑΪΔΑΡΙ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 2
+          },
+
+          {
+            "homeTeam": "ΟΛΥΜΠΙΑΚΟΣ Ν.ΛΙΟΣΙΩΝ",
+            "awayTeam": "ΑΟ ΚΑΛΑΜΑΚΙΟΥ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 0
+         },
+   
+         {
+              "homeTeam": "ΟΛΥΜΠΙΑΚΟΣ Ν.ΛΙΟΣΙΩΝ",
+              "awayTeam": "ΑΟ ΜΙΚΡΑΣΙΑΤΙΚΟΣ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 3
+          },
+  
+          {
+              "homeTeam": "ΟΛΥΜΠΙΑΚΟΣ Ν.ΛΙΟΣΙΩΝ",
+              "awayTeam": "ΓΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+              "homeTeamGoals": 2,
+              "awayTeamGoals": 2
+          },
+  
+          {
+              "homeTeam": "ΟΛΥΜΠΙΑΚΟΣ Ν.ΛΙΟΣΙΩΝ",
+              "awayTeam": "ΔΑΦΝΗ Π.ΦΑΛΗΡΟΥ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΟΛΥΜΠΙΑΚΟΣ Ν.ΛΙΟΣΙΩΝ",
+              "awayTeam": "ΔΙΑΝΑ ΗΛΙΟΥΠΟΛΗΣ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΟΛΥΜΠΙΑΚΟΣ Ν.ΛΙΟΣΙΩΝ",
+              "awayTeam": "ΗΦΑΙΣΤΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+              "homeTeamGoals": 2,
+              "awayTeamGoals": 3
+          },
+  
+          {
+              "homeTeam": "ΟΛΥΜΠΙΑΚΟΣ Ν.ΛΙΟΣΙΩΝ",
+              "awayTeam": "ΝΕΑ ΙΩΝΙΑ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΟΛΥΜΠΙΑΚΟΣ Ν.ΛΙΟΣΙΩΝ",
+              "awayTeam": "ΠΑΝΕΡΥΘΡΑΪΚΟΣ",
+              "homeTeamGoals": 2,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΟΛΥΜΠΙΑΚΟΣ Ν.ΛΙΟΣΙΩΝ",
+              "awayTeam": "ΧΑΡΑΥΓΙΑΚΟΣ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΟΛΥΜΠΙΑΚΟΣ Ν.ΛΙΟΣΙΩΝ",
+              "awayTeam": "ΧΑΪΔΑΡΙ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 1
+          },
+
+          {
+            "homeTeam": "ΠΑΝΕΡΥΘΡΑΪΚΟΣ",
+            "awayTeam": "ΑΟ ΚΑΛΑΜΑΚΙΟΥ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 1
+         },
+   
+         {
+              "homeTeam": "ΠΑΝΕΡΥΘΡΑΪΚΟΣ",
+              "awayTeam": "ΑΟ ΜΙΚΡΑΣΙΑΤΙΚΟΣ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΠΑΝΕΡΥΘΡΑΪΚΟΣ",
+              "awayTeam": "ΓΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΠΑΝΕΡΥΘΡΑΪΚΟΣ",
+              "awayTeam": "ΔΑΦΝΗ Π.ΦΑΛΗΡΟΥ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΠΑΝΕΡΥΘΡΑΪΚΟΣ",
+              "awayTeam": "ΔΙΑΝΑ ΗΛΙΟΥΠΟΛΗΣ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΠΑΝΕΡΥΘΡΑΪΚΟΣ",
+              "awayTeam": "ΗΦΑΙΣΤΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΠΑΝΕΡΥΘΡΑΪΚΟΣ",
+              "awayTeam": "ΝΕΑ ΙΩΝΙΑ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΠΑΝΕΡΥΘΡΑΪΚΟΣ",
+              "awayTeam": "ΟΛΥΜΠΙΑΚΟΣ Ν.ΛΙΟΣΙΩΝ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΠΑΝΕΡΥΘΡΑΪΚΟΣ",
+              "awayTeam": "ΧΑΡΑΥΓΙΑΚΟΣ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΠΑΝΕΡΥΘΡΑΪΚΟΣ",
+              "awayTeam": "ΧΑΪΔΑΡΙ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 0
+          },
+
+          {
+            "homeTeam": "ΧΑΡΑΥΓΙΑΚΟΣ",
+            "awayTeam": "ΑΟ ΚΑΛΑΜΑΚΙΟΥ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+         },
+   
+         {
+              "homeTeam": "ΧΑΡΑΥΓΙΑΚΟΣ",
+              "awayTeam": "ΑΟ ΜΙΚΡΑΣΙΑΤΙΚΟΣ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΧΑΡΑΥΓΙΑΚΟΣ",
+              "awayTeam": "ΓΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+              "homeTeamGoals": 4,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΧΑΡΑΥΓΙΑΚΟΣ",
+              "awayTeam": "ΔΑΦΝΗ Π.ΦΑΛΗΡΟΥ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 3
+          },
+  
+          {
+              "homeTeam": "ΧΑΡΑΥΓΙΑΚΟΣ",
+              "awayTeam": "ΔΙΑΝΑ ΗΛΙΟΥΠΟΛΗΣ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΧΑΡΑΥΓΙΑΚΟΣ",
+              "awayTeam": "ΗΦΑΙΣΤΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+              "homeTeamGoals": 2,
+              "awayTeamGoals": 3
+          },
+  
+          {
+              "homeTeam": "ΧΑΡΑΥΓΙΑΚΟΣ",
+              "awayTeam": "ΝΕΑ ΙΩΝΙΑ",
+              "homeTeamGoals": 2,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΧΑΡΑΥΓΙΑΚΟΣ",
+              "awayTeam": "ΟΛΥΜΠΙΑΚΟΣ Ν.ΛΙΟΣΙΩΝ",
+              "homeTeamGoals": 4,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΧΑΡΑΥΓΙΑΚΟΣ",
+              "awayTeam": "ΠΑΝΕΡΥΘΡΑΪΚΟΣ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΧΑΡΑΥΓΙΑΚΟΣ",
+              "awayTeam": "ΧΑΪΔΑΡΙ",
+              "homeTeamGoals": 1,
+              "awayTeamGoals": 1
+          },
+          {
+            "homeTeam": "ΧΑΪΔΑΡΙ",
+            "awayTeam": "ΑΟ ΚΑΛΑΜΑΚΙΟΥ",
+            "homeTeamGoals": 4,
+            "awayTeamGoals": 0
+         },
+   
+         {
+              "homeTeam": "ΧΑΪΔΑΡΙ",
+              "awayTeam": "ΑΟ ΜΙΚΡΑΣΙΑΤΙΚΟΣ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΧΑΪΔΑΡΙ",
+              "awayTeam": "ΓΣ ΚΑΙΣΑΡΙΑΝΗΣ",
+              "homeTeamGoals": 4,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΧΑΪΔΑΡΙ",
+              "awayTeam": "ΔΑΦΝΗ Π.ΦΑΛΗΡΟΥ",
+              "homeTeamGoals": 3,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΧΑΪΔΑΡΙ",
+              "awayTeam": "ΔΙΑΝΑ ΗΛΙΟΥΠΟΛΗΣ",
+              "homeTeamGoals": 2,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΧΑΪΔΑΡΙ",
+              "awayTeam": "ΗΦΑΙΣΤΟΣ ΠΕΡΙΣΤΕΡΙΟΥ",
+              "homeTeamGoals": 2,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΧΑΪΔΑΡΙ",
+              "awayTeam": "ΝΕΑ ΙΩΝΙΑ",
+              "homeTeamGoals": 2,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΧΑΪΔΑΡΙ",
+              "awayTeam": "ΟΛΥΜΠΙΑΚΟΣ Ν.ΛΙΟΣΙΩΝ",
+              "homeTeamGoals": 0,
+              "awayTeamGoals": 0
+          },
+  
+          {
+              "homeTeam": "ΧΑΪΔΑΡΙ",
+              "awayTeam": "ΠΑΝΕΡΥΘΡΑΪΚΟΣ",
+              "homeTeamGoals": 2,
+              "awayTeamGoals": 1
+          },
+  
+          {
+              "homeTeam": "ΧΑΪΔΑΡΙ",
+              "awayTeam": "ΧΑΡΑΥΓΙΑΚΟΣ",
+              "homeTeamGoals": 5,
+              "awayTeamGoals": 0
+          }
+ 
+    ]
+ }

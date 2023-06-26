@@ -1,0 +1,774 @@
+{
+    "game": [
+ 
+       {
+            "homeTeam": "ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+            "awayTeam": "ΑΓ. ΕΛΕΟΥΣΑ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+            "awayTeam": "ΑΓ. ΘΩΜΑΣ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 3
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+            "awayTeam": "ΑΓΙΑΞ ΤΑΥΡΟΥ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+            "awayTeam": "ΑΜΙΛΛΑ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 5,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+            "awayTeam": "ΑΝΘΟΥΠΟΛΗ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+            "awayTeam": "ΑΤΤΑΛΟΣ Ν.ΦΙΛ.",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+            "awayTeam": "ΘΥΕΛΛΑ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+            "awayTeam": "ΠΑΛ.ΦΑΛΗΡΟ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+            "awayTeam": "ΣΟΥΡΜΕΝΑ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+            "awayTeam": "ΧΑΛΑΝΔΡΙ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΕΛΕΟΥΣΑ",
+            "awayTeam": "ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΕΛΕΟΥΣΑ",
+            "awayTeam": "ΑΓ. ΘΩΜΑΣ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΕΛΕΟΥΣΑ",
+            "awayTeam": "ΑΓΙΑΞ ΤΑΥΡΟΥ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΕΛΕΟΥΣΑ",
+            "awayTeam": "ΑΜΙΛΛΑ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 7,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΕΛΕΟΥΣΑ",
+            "awayTeam": "ΑΝΘΟΥΠΟΛΗ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΕΛΕΟΥΣΑ",
+            "awayTeam": "ΑΤΤΑΛΟΣ Ν.ΦΙΛ.",
+            "homeTeamGoals": 4,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΕΛΕΟΥΣΑ",
+            "awayTeam": "ΘΥΕΛΛΑ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΕΛΕΟΥΣΑ",
+            "awayTeam": "ΠΑΛ.ΦΑΛΗΡΟ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΕΛΕΟΥΣΑ",
+            "awayTeam": "ΣΟΥΡΜΕΝΑ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΕΛΕΟΥΣΑ",
+            "awayTeam": "ΧΑΛΑΝΔΡΙ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΘΩΜΑΣ",
+            "awayTeam": "ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΘΩΜΑΣ",
+            "awayTeam": "ΑΓ. ΕΛΕΟΥΣΑ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΘΩΜΑΣ",
+            "awayTeam": "ΑΓΙΑΞ ΤΑΥΡΟΥ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΘΩΜΑΣ",
+            "awayTeam": "ΑΜΙΛΛΑ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 6,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΘΩΜΑΣ",
+            "awayTeam": "ΑΝΘΟΥΠΟΛΗ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΘΩΜΑΣ",
+            "awayTeam": "ΑΤΤΑΛΟΣ Ν.ΦΙΛ.",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΘΩΜΑΣ",
+            "awayTeam": "ΘΥΕΛΛΑ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΘΩΜΑΣ",
+            "awayTeam": "ΠΑΛ.ΦΑΛΗΡΟ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΘΩΜΑΣ",
+            "awayTeam": "ΣΟΥΡΜΕΝΑ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΓ. ΘΩΜΑΣ",
+            "awayTeam": "ΧΑΛΑΝΔΡΙ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 3
+        },
+
+        {
+            "homeTeam": "ΑΓΙΑΞ ΤΑΥΡΟΥ",
+            "awayTeam": "ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΓΙΑΞ ΤΑΥΡΟΥ",
+            "awayTeam": "ΑΓ. ΕΛΕΟΥΣΑ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΓΙΑΞ ΤΑΥΡΟΥ",
+            "awayTeam": "ΑΓ. ΘΩΜΑΣ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΓΙΑΞ ΤΑΥΡΟΥ",
+            "awayTeam": "ΑΜΙΛΛΑ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 4,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΓΙΑΞ ΤΑΥΡΟΥ",
+            "awayTeam": "ΑΝΘΟΥΠΟΛΗ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΓΙΑΞ ΤΑΥΡΟΥ",
+            "awayTeam": "ΑΤΤΑΛΟΣ Ν.ΦΙΛ.",
+            "homeTeamGoals": 4,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΓΙΑΞ ΤΑΥΡΟΥ",
+            "awayTeam": "ΘΥΕΛΛΑ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΓΙΑΞ ΤΑΥΡΟΥ",
+            "awayTeam": "ΠΑΛ.ΦΑΛΗΡΟ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΓΙΑΞ ΤΑΥΡΟΥ",
+            "awayTeam": "ΣΟΥΡΜΕΝΑ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 3
+        },
+
+        {
+            "homeTeam": "ΑΓΙΑΞ ΤΑΥΡΟΥ",
+            "awayTeam": "ΧΑΛΑΝΔΡΙ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΜΙΛΛΑ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΜΙΛΛΑ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΑΓ. ΕΛΕΟΥΣΑ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 5
+        },
+
+        {
+            "homeTeam": "ΑΜΙΛΛΑ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΑΓ. ΘΩΜΑΣ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 10
+        },
+
+        {
+            "homeTeam": "ΑΜΙΛΛΑ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΑΓΙΑΞ ΤΑΥΡΟΥ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΜΙΛΛΑ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΑΝΘΟΥΠΟΛΗ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 3
+        },
+
+        {
+            "homeTeam": "ΑΜΙΛΛΑ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΑΤΤΑΛΟΣ Ν.ΦΙΛ.",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΑΜΙΛΛΑ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΘΥΕΛΛΑ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 3
+        },
+
+        {
+            "homeTeam": "ΑΜΙΛΛΑ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΠΑΛ.ΦΑΛΗΡΟ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 5
+        },
+
+        {
+            "homeTeam": "ΑΜΙΛΛΑ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΣΟΥΡΜΕΝΑ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 4
+        },
+
+        {
+            "homeTeam": "ΑΜΙΛΛΑ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "awayTeam": "ΧΑΛΑΝΔΡΙ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 5
+        },
+
+        {
+            "homeTeam": "ΑΝΘΟΥΠΟΛΗ",
+            "awayTeam": "ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 4
+        },
+
+        {
+            "homeTeam": "ΑΝΘΟΥΠΟΛΗ",
+            "awayTeam": "ΑΓ. ΕΛΕΟΥΣΑ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΝΘΟΥΠΟΛΗ",
+            "awayTeam": "ΑΓ. ΘΩΜΑΣ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 3
+        },
+
+        {
+            "homeTeam": "ΑΝΘΟΥΠΟΛΗ",
+            "awayTeam": "ΑΓΙΑΞ ΤΑΥΡΟΥ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΝΘΟΥΠΟΛΗ",
+            "awayTeam": "ΑΜΙΛΛΑ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΝΘΟΥΠΟΛΗ",
+            "awayTeam": "ΑΤΤΑΛΟΣ Ν.ΦΙΛ.",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΝΘΟΥΠΟΛΗ",
+            "awayTeam": "ΘΥΕΛΛΑ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΝΘΟΥΠΟΛΗ",
+            "awayTeam": "ΠΑΛ.ΦΑΛΗΡΟ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΝΘΟΥΠΟΛΗ",
+            "awayTeam": "ΣΟΥΡΜΕΝΑ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΝΘΟΥΠΟΛΗ",
+            "awayTeam": "ΧΑΛΑΝΔΡΙ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 5
+        },
+
+        {
+            "homeTeam": "ΑΤΤΑΛΟΣ Ν.ΦΙΛ.",
+            "awayTeam": "ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΤΤΑΛΟΣ Ν.ΦΙΛ.",
+            "awayTeam": "ΑΓ. ΕΛΕΟΥΣΑ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 4
+        },
+
+        {
+            "homeTeam": "ΑΤΤΑΛΟΣ Ν.ΦΙΛ.",
+            "awayTeam": "ΑΓ. ΘΩΜΑΣ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΤΤΑΛΟΣ Ν.ΦΙΛ.",
+            "awayTeam": "ΑΓΙΑΞ ΤΑΥΡΟΥ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΤΤΑΛΟΣ Ν.ΦΙΛ.",
+            "awayTeam": "ΑΜΙΛΛΑ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΤΤΑΛΟΣ Ν.ΦΙΛ.",
+            "awayTeam": "ΑΝΘΟΥΠΟΛΗ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΤΤΑΛΟΣ Ν.ΦΙΛ.",
+            "awayTeam": "ΘΥΕΛΛΑ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΑΤΤΑΛΟΣ Ν.ΦΙΛ.",
+            "awayTeam": "ΠΑΛ.ΦΑΛΗΡΟ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 3
+        },
+
+        {
+            "homeTeam": "ΑΤΤΑΛΟΣ Ν.ΦΙΛ.",
+            "awayTeam": "ΣΟΥΡΜΕΝΑ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΑΤΤΑΛΟΣ Ν.ΦΙΛ.",
+            "awayTeam": "ΧΑΛΑΝΔΡΙ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 4
+        },
+
+        {
+            "homeTeam": "ΘΥΕΛΛΑ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+            "awayTeam": "ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+            "homeTeamGoals": 4,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΘΥΕΛΛΑ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+            "awayTeam": "ΑΓ. ΕΛΕΟΥΣΑ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 3
+        },
+
+        {
+            "homeTeam": "ΘΥΕΛΛΑ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+            "awayTeam": "ΑΓ. ΘΩΜΑΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΘΥΕΛΛΑ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+            "awayTeam": "ΑΓΙΑΞ ΤΑΥΡΟΥ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΘΥΕΛΛΑ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+            "awayTeam": "ΑΜΙΛΛΑ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΘΥΕΛΛΑ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+            "awayTeam": "ΑΝΘΟΥΠΟΛΗ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΘΥΕΛΛΑ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+            "awayTeam": "ΑΤΤΑΛΟΣ Ν.ΦΙΛ.",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΘΥΕΛΛΑ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+            "awayTeam": "ΠΑΛ.ΦΑΛΗΡΟ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΘΥΕΛΛΑ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+            "awayTeam": "ΣΟΥΡΜΕΝΑ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΘΥΕΛΛΑ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+            "awayTeam": "ΧΑΛΑΝΔΡΙ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΠΑΛ.ΦΑΛΗΡΟ",
+            "awayTeam": "ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΠΑΛ.ΦΑΛΗΡΟ",
+            "awayTeam": "ΑΓ. ΕΛΕΟΥΣΑ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΠΑΛ.ΦΑΛΗΡΟ",
+            "awayTeam": "ΑΓ. ΘΩΜΑΣ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΠΑΛ.ΦΑΛΗΡΟ",
+            "awayTeam": "ΑΓΙΑΞ ΤΑΥΡΟΥ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 4
+        },
+
+        {
+            "homeTeam": "ΠΑΛ.ΦΑΛΗΡΟ",
+            "awayTeam": "ΑΜΙΛΛΑ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΠΑΛ.ΦΑΛΗΡΟ",
+            "awayTeam": "ΑΝΘΟΥΠΟΛΗ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΠΑΛ.ΦΑΛΗΡΟ",
+            "awayTeam": "ΑΤΤΑΛΟΣ Ν.ΦΙΛ.",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΠΑΛ.ΦΑΛΗΡΟ",
+            "awayTeam": "ΘΥΕΛΛΑ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΠΑΛ.ΦΑΛΗΡΟ",
+            "awayTeam": "ΣΟΥΡΜΕΝΑ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 4
+        },
+
+        {
+            "homeTeam": "ΠΑΛ.ΦΑΛΗΡΟ",
+            "awayTeam": "ΧΑΛΑΝΔΡΙ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΣΟΥΡΜΕΝΑ",
+            "awayTeam": "ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΣΟΥΡΜΕΝΑ",
+            "awayTeam": "ΑΓ. ΕΛΕΟΥΣΑ",
+            "homeTeamGoals": 3,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΣΟΥΡΜΕΝΑ",
+            "awayTeam": "ΑΓ. ΘΩΜΑΣ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΣΟΥΡΜΕΝΑ",
+            "awayTeam": "ΑΓΙΑΞ ΤΑΥΡΟΥ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΣΟΥΡΜΕΝΑ",
+            "awayTeam": "ΑΜΙΛΛΑ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 5,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΣΟΥΡΜΕΝΑ",
+            "awayTeam": "ΑΝΘΟΥΠΟΛΗ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΣΟΥΡΜΕΝΑ",
+            "awayTeam": "ΑΤΤΑΛΟΣ Ν.ΦΙΛ.",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΣΟΥΡΜΕΝΑ",
+            "awayTeam": "ΘΥΕΛΛΑ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΣΟΥΡΜΕΝΑ",
+            "awayTeam": "ΠΑΛ.ΦΑΛΗΡΟ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΣΟΥΡΜΕΝΑ",
+            "awayTeam": "ΧΑΛΑΝΔΡΙ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΧΑΛΑΝΔΡΙ",
+            "awayTeam": "ΑΓ. ΑΝΑΡΓΥΡΟΙ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΧΑΛΑΝΔΡΙ",
+            "awayTeam": "ΑΓ. ΕΛΕΟΥΣΑ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΧΑΛΑΝΔΡΙ",
+            "awayTeam": "ΑΓ. ΘΩΜΑΣ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 2
+        },
+
+        {
+            "homeTeam": "ΧΑΛΑΝΔΡΙ",
+            "awayTeam": "ΑΓΙΑΞ ΤΑΥΡΟΥ",
+            "homeTeamGoals": 0,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΧΑΛΑΝΔΡΙ",
+            "awayTeam": "ΑΜΙΛΛΑ ΠΕΡΙΣΤΕΡΙΟΥ",
+            "homeTeamGoals": 6,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΧΑΛΑΝΔΡΙ",
+            "awayTeam": "ΑΝΘΟΥΠΟΛΗ",
+            "homeTeamGoals": 1,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΧΑΛΑΝΔΡΙ",
+            "awayTeam": "ΑΤΤΑΛΟΣ Ν.ΦΙΛ.",
+            "homeTeamGoals": 4,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΧΑΛΑΝΔΡΙ",
+            "awayTeam": "ΘΥΕΛΛΑ ΑΓ. ΔΗΜΗΤΡΙΟΥ",
+            "homeTeamGoals": 5,
+            "awayTeamGoals": 1
+        },
+
+        {
+            "homeTeam": "ΧΑΛΑΝΔΡΙ",
+            "awayTeam": "ΠΑΛ.ΦΑΛΗΡΟ",
+            "homeTeamGoals": 2,
+            "awayTeamGoals": 0
+        },
+
+        {
+            "homeTeam": "ΧΑΛΑΝΔΡΙ",
+            "awayTeam": "ΣΟΥΡΜΕΝΑ",
+            "homeTeamGoals": 4,
+            "awayTeamGoals": 0
+        }
+    ]
+}

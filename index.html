@@ -4,30 +4,38 @@
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-    <h2>Championship Stats</h2>
+    <h2>Στατιστικά Πρωταθλήματος</h2>
     <div id="bracketControls">
-        <button onclick="loadBracket('omilos1.json')">Omilos 1</button>
-        <button onclick="loadBracket('omilos2.json')">Omilos 2</button>
-        <button onclick="loadBracket('omilos3.json')">Omilos 3</button>
+        <button onclick="loadBracket('omilos1.json')">1ος Όμιλος</button>
+        <button onclick="loadBracket('omilos2.json')">2ος Όμιλος</button>
+        <button onclick="loadBracket('omilos3.json')">3ος Όμιλος</button>
     </div>
-    <div id="controls">
-        <button onclick="sortTeams('points')">Sort by Points</button>
-        <button onclick="sortTeams('name')">Sort by Name</button>
-        <button onclick="sortTeams('goals')">Sort by Goals</button>
-        <button onclick="sortTeams('wins')">Sort by Wins</button>
-    </div>
+    
     <table id="matchTable">
         <tr id="tableHeader"></tr>
     </table>
-    <h2>Points Table</h2>
+    <h2>Βαθμολογία Ομίλου</h2>
+    <div id="controls">
+        <label for="sortSelect">Φίλτρο:</label>
+        <select id="sortSelect" onchange="sortTeams(this.value)">
+            <option value="points">Πόντοι</option>
+            <option value="name">Όνομα Ομάδας</option>
+            <option value="goals">Γκολ</option>
+            <option value="wins">Νίκες</option>
+            <option value="homeWins">Εντός Έδρας</option>
+            <option value="awayWins">Εκτός Έδρας</option>
+        </select>
+    </div>
     <table id="statsTable">
         <tr id="tableHeader">
-            <th>Team Name</th>
-            <th>Points</th>
-            <th>Matches</th>
-            <th>Wins</th>
-            <th>Draws</th>
-            <th>Loses</th>
+            <th>Όνομα Ομάδας</th>
+            <th>Πόντοι</th>
+            <th>Αγώνες</th>
+            <th>Νίκες</th>
+            <th>Ισσοπαλίες</th>
+            <th>Ήττες</th>
+            <th>Home Wins</th>
+            <th>Away Wins</th>
         </tr>
     </table>
     <script src="main.js"></script>

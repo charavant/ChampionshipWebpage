@@ -12,6 +12,8 @@ function createMatchMatrix(matches) {
             points: 0,
             goals: 0,
             wins: 0,
+            homeWins: 0,
+            awayWins: 0,
             matches: 0,
             draws: 0,
             loses: 0
@@ -40,10 +42,12 @@ function createMatchMatrix(matches) {
         if (match.homeTeamGoals > match.awayTeamGoals) {
             homeTeamData.points += 3;
             homeTeamData.wins += 1;
+            homeTeamData.homeWins += 1;
             awayTeamData.loses += 1;
         } else if (match.homeTeamGoals < match.awayTeamGoals) {
             awayTeamData.points += 3;
             awayTeamData.wins += 1;
+            awayTeamData.awayWins += 1;
             homeTeamData.loses += 1;
         } else {
             homeTeamData.points += 1;
@@ -83,6 +87,10 @@ function sortTeams(by) {
             return b.goals - a.goals;
         } else if (by === 'wins') {
             return b.wins - a.wins;
+        } else if (by === 'homeWins') {
+            return b.homeWins - a.homeWins;
+        } else if (by === 'awayWins') {
+            return b.awayWins - a.awayWins;
         } else {
             return b.points - a.points;
         }
@@ -103,13 +111,17 @@ function sortTeams(by) {
         let cell4 = row.insertCell(3);
         let cell5 = row.insertCell(4);
         let cell6 = row.insertCell(5);
+        let cell7 = row.insertCell(6);
+        let cell8 = row.insertCell(7);
 
         cell1.innerHTML = teamData.name;
         cell2.innerHTML = teamData.points;
         cell3.innerHTML = teamData.matches;
         cell4.innerHTML = teamData.wins;
-        cell5.innerHTML = teamData.draws;
-        cell6.innerHTML = teamData.loses;
+        cell5.innerHTML = teamData.homeWins;
+        cell6.innerHTML = teamData.awayWins;
+        cell7.innerHTML = teamData.draws;
+        cell8.innerHTML = teamData.loses;
     }
 }
 

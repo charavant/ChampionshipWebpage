@@ -1,33 +1,35 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-	<!-- Setting the pages character encoding -->
-	<meta charset="UTF-8">
-
-	<!-- The meta viewport will scale my content to any device width -->
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-	 <!-- Link to my stylesheet -->
-	 <link rel="stylesheet" href="styles.css">
-	<title>Start up</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-
-	<table>
-		<thead>
-			<tr>
-				<th>Image</th>
-				<th>Product name</th>
-				<th>Price</th>
-				<th>inventory</th>
-				<th>Product  code</th>
-			</tr>
-		</thead>
-		<tbody id="data-output">
-			<!-- Prodcuts from gavascript file in here. -->
-		</tbody>
-	</table>
-
-	<script src="script.js"></script> <!-- Link to the javascript file -->
+    <h2>Championship Stats</h2>
+    <div id="bracketControls">
+        <button onclick="loadBracket('omilos1.json')">Omilos 1</button>
+        <button onclick="loadBracket('omilos2.json')">Omilos 2</button>
+        <button onclick="loadBracket('omilos3.json')">Omilos 3</button>
+    </div>
+    <div id="controls">
+        <button onclick="sortTeams('points')">Sort by Points</button>
+        <button onclick="sortTeams('name')">Sort by Name</button>
+        <button onclick="sortTeams('goals')">Sort by Goals</button>
+        <button onclick="sortTeams('wins')">Sort by Wins</button>
+    </div>
+    <table id="matchTable">
+        <tr id="tableHeader"></tr>
+    </table>
+    <h2>Points Table</h2>
+    <table id="statsTable">
+        <tr id="tableHeader">
+            <th>Team Name</th>
+            <th>Points</th>
+            <th>Matches</th>
+            <th>Wins</th>
+            <th>Draws</th>
+            <th>Loses</th>
+        </tr>
+    </table>
+    <script src="main.js"></script>
 </body>
 </html>

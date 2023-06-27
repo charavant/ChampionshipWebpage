@@ -133,3 +133,5 @@ function loadBracket(bracketFile) {
         })
         .catch(error => console.error('An error occurred:', error));
 }
+
+loadBracket('omilos1.json');

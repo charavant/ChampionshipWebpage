@@ -4,40 +4,42 @@
     <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
-    <h2>Στατιστικά Πρωταθλήματος</h2>
-    <div id="bracketControls">
-        <button onclick="loadBracket('omilos1.json')">1ος Όμιλος</button>
-        <button onclick="loadBracket('omilos2.json')">2ος Όμιλος</button>
-        <button onclick="loadBracket('omilos3.json')">3ος Όμιλος</button>
+    <div class="container">
+        <h2 class="title">Βαθμολογία Πρωταθλήματος</h2>
+        <div id="bracketControls" class="button-group">
+            <button class="btn" onclick="loadBracket('omilos1.json')">1ος Όμιλος</button>
+            <button class="btn" onclick="loadBracket('omilos2.json')">2ος Όμιλος</button>
+            <button class="btn" onclick="loadBracket('omilos3.json')">3ος Όμιλος</button>
+        </div>
+        
+        <table id="matchTable" class="table">
+            <tr id="tableHeader"></tr>
+        </table>
+        <h2 class="title">Στατιστικά Πρωταθλήματος</h2>
+        <div id="controls" class="dropdown">
+            <label for="sortSelect" class="dropdown-label">Φίλτρο</label>
+            <select id="sortSelect" class="dropdown-select" onchange="sortTeams(this.value)">
+                <option value="points">Πόντοι</option>
+                <option value="name">Όνομα Ομάδας</option>
+                <option value="goals">Γκολ</option>
+                <option value="wins">Νίκες</option>
+                <option value="homeWins">Εντός Έδρας</option>
+                <option value="awayWins">Εκτός Έδρας</option>
+            </select>
+        </div>
+        <table id="statsTable" class="table">
+            <tr id="tableHeader">
+                <th>Όνομα Ομάδας</th>
+                <th>Πόντοι</th>
+                <th>Αγώνες</th>
+                <th>Νίκες</th>
+                <th>Εντός Έδρας</th>
+                <th>Εκτός Έδρας</th>
+                <th>Ισοπαλίες</th>
+                <th>Ήττες</th>
+            </tr>
+        </table>
     </div>
-    
-    <table id="matchTable">
-        <tr id="tableHeader"></tr>
-    </table>
-    <h2>Βαθμολογία Ομίλου</h2>
-    <div id="controls">
-        <label for="sortSelect">Φίλτρο:</label>
-        <select id="sortSelect" onchange="sortTeams(this.value)">
-            <option value="points">Πόντοι</option>
-            <option value="name">Όνομα Ομάδας</option>
-            <option value="goals">Γκολ</option>
-            <option value="wins">Νίκες</option>
-            <option value="homeWins">Εντός Έδρας</option>
-            <option value="awayWins">Εκτός Έδρας</option>
-        </select>
-    </div>
-    <table id="statsTable">
-        <tr id="tableHeader">
-            <th>Όνομα Ομάδας</th>
-            <th>Πόντοι</th>
-            <th>Αγώνες</th>
-            <th>Νίκες</th>
-            <th>Ισσοπαλίες</th>
-            <th>Ήττες</th>
-            <th>Home Wins</th>
-            <th>Away Wins</th>
-        </tr>
-    </table>
     <script src="main.js"></script>
 </body>
 </html>
